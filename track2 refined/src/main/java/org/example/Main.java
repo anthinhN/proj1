@@ -32,7 +32,7 @@ public class Main {
     public void Test1() {
         List<String> emailRecipients = List.of(
                 "", "",
-                "", "huynhtl@vng.com.vn"//add more email as needed
+                "", ""//add more email as needed
         );
         String EMAIL_SUBJECT = "SSL Certificate Expired Notice";
         String domainFilePath = "src/domains.txt";
